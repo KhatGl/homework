@@ -1,2 +1,4 @@
 # homework
-hw msu
+hw msu 5 semestr
+
+Khatunsev Gleb
